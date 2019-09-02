@@ -8,7 +8,7 @@ output: html_document
 This is a test file for graphing 
 ```{r}
 x=rnorm(100)
-hist(x,xlab="z",ylab="freq.",main="100 Random values from the strandard normal",col="blue")
+hist(x,xlab="z",ylab="Frequency",main="100 Random values from the strandard normal",col="green")
 
 
 ```
