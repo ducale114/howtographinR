@@ -1,0 +1,15 @@
+---
+title: "howtographinR"
+author: "Dahir"
+date: "2019년 9월 2일"
+output: html_document
+---
+
+This is a test file for graphing 
+```{r}
+x=rnorm(100)
+hist(x,xlab="z",ylab="freq.",main="100 Random values from the strandard normal",col="blue")
+
+
+```
+
